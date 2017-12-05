@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@include mq('sm') {
+  ${1}
+}
+]]></content>
+    <tabTrigger>mq-sm</tabTrigger>
+    <scope>source.sass</scope>
+    <description>Minimis - 'sm' Media Query</description>
+</snippet>

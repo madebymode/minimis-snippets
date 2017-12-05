@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@include u-${1:property}('${2:alias}', ${3:value}, '${4:breakpoint}');
+]]></content>
+    <tabTrigger>u-include</tabTrigger>
+    <scope>source.sass</scope>
+    <description>Minimis - Utility Property Include</description>
+</snippet>

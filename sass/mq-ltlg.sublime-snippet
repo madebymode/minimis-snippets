@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@include mq('lt-lg') {
+  ${1}
+}
+]]></content>
+    <tabTrigger>mq-lt-lg</tabTrigger>
+    <scope>source.sass</scope>
+    <description>Minimis - 'lt-lg' Media Query</description>
+</snippet>

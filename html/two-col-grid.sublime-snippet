@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<div class="o-grid">
+  <div class="o-grid__item">${1}</div>
+  <div class="o-grid__item">${2}</div>
+</div>
+]]></content>
+    <tabTrigger>o-grid-2-col</tabTrigger>
+    <scope>source.html, source.php</scope>
+    <description>Minimis - Two Column Grid</description>
+</snippet>

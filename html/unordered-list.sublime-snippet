@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<ul class="o-list">
+  <li class="o-list__item">${1}</li>
+  <li class="o-list__item">${2}</li>
+</ul>
+]]></content>
+    <tabTrigger>o-list-2-col</tabTrigger>
+    <scope>source.html, source.php</scope>
+    <description>Minimis - Unordered List</description>
+</snippet>
